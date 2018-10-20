@@ -1,0 +1,90 @@
+c:\users\ali hamza\documents\visual studio 2015\Projects\MetisMercury\MetisMercury\bin\Debug\MetisMercury.exe.config
+C:\Users\Ali Hamza\Documents\Visual Studio 2015\Projects\MetisMercury\MetisMercury\obj\Debug\MetisMercury.csprojResolveAssemblyReference.cache
+C:\Users\Ali Hamza\Documents\Visual Studio 2015\Projects\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Apps.Cafeteria.resources
+C:\Users\Ali Hamza\Documents\Visual Studio 2015\Projects\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Properties.Resources.resources
+C:\Users\Ali Hamza\Documents\Visual Studio 2015\Projects\MetisMercury\MetisMercury\obj\Debug\MetisMercury.csproj.GenerateResource.Cache
+C:\Users\Ali Hamza\Documents\Visual Studio 2015\Projects\MetisMercury\MetisMercury\bin\Debug\MetisMercury.exe
+C:\Users\Ali Hamza\Documents\Visual Studio 2015\Projects\MetisMercury\MetisMercury\bin\Debug\MetisMercury.pdb
+C:\Users\Ali Hamza\Documents\Visual Studio 2015\Projects\MetisMercury\MetisMercury\bin\Debug\MySql.Data.dll
+C:\Users\Ali Hamza\Documents\Visual Studio 2015\Projects\MetisMercury\MetisMercury\bin\Debug\Phidget22.NET.dll
+C:\Users\Ali Hamza\Documents\Visual Studio 2015\Projects\MetisMercury\MetisMercury\obj\Debug\MetisMercury.exe
+C:\Users\Ali Hamza\Documents\Visual Studio 2015\Projects\MetisMercury\MetisMercury\obj\Debug\MetisMercury.pdb
+C:\Users\Ali Hamza\Documents\Visual Studio 2015\Projects\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Apps.BoatEntrance.resources
+C:\Users\Ali Hamza\Documents\Visual Studio 2015\Projects\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Apps.CampingEntrance.resources
+C:\Users\Ali Hamza\Documents\Visual Studio 2015\Projects\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Apps.EquipmentShop.resources
+C:\Users\Ali Hamza\Documents\Visual Studio 2015\Projects\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Apps.EventEntrance.resources
+C:\Users\Ali Hamza\Documents\Visual Studio 2015\Projects\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Apps.EventStatus.resources
+C:\Users\Ali Hamza\Documents\Visual Studio 2015\Projects\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Apps.Exit.resources
+C:\Users\Ali Hamza\Documents\Visual Studio 2015\Projects\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Apps.mainApp.resources
+C:\Users\Ali Hamza\Documents\Visual Studio 2015\Projects\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Apps.AssignRFID.resources
+C:\Users\Ali Hamza\Documents\Visual Studio 2015\Projects\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Apps.CampingCheckIn.resources
+C:\Users\Ali Hamza\Documents\Visual Studio 2015\Projects\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Apps.BoatCheckIn.resources
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV3\MetisMercury\MetisMercury\bin\Debug\MetisMercury.exe.config
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV3\MetisMercury\MetisMercury\obj\Debug\MetisMercury.exe
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV3\MetisMercury\MetisMercury\obj\Debug\MetisMercury.pdb
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV3\MetisMercury\MetisMercury\bin\Debug\MetisMercury.exe
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV3\MetisMercury\MetisMercury\bin\Debug\MetisMercury.pdb
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV3\MetisMercury\MetisMercury\bin\Debug\Phidget22.NET.dll
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV3\MetisMercury\MetisMercury\bin\Debug\Phidget22.NET.pdb
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV3\MetisMercury\MetisMercury\bin\Debug\Phidget22.NET.xml
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV3\MetisMercury\MetisMercury\obj\Debug\MetisMercury.csprojResolveAssemblyReference.cache
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV3\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Apps.AssignRFID.resources
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV3\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Apps.BoatCheckIn.resources
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV3\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Apps.BoatEntrance.resources
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV3\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Apps.CafeTeria.resources
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV3\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Apps.CampingCheckIn.resources
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV3\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Apps.CampingEntrance.resources
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV3\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Apps.EquipmentShop.resources
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV3\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Apps.EventEntrance.resources
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV3\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Apps.EventStatus.resources
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV3\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Apps.Exit.resources
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV3\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Apps.mainApp.resources
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV3\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Properties.Resources.resources
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV3\MetisMercury\MetisMercury\obj\Debug\MetisMercury.csproj.GenerateResource.Cache
+E:\VestroProject\VestroVestival-master-593701d5c5f26c14049c442451b475c858866734\MetisMercuryV3\MetisMercury\MetisMercury\bin\Debug\MetisMercury.exe.config
+E:\VestroProject\VestroVestival-master-593701d5c5f26c14049c442451b475c858866734\MetisMercuryV3\MetisMercury\MetisMercury\obj\Debug\MetisMercury.exe
+E:\VestroProject\VestroVestival-master-593701d5c5f26c14049c442451b475c858866734\MetisMercuryV3\MetisMercury\MetisMercury\obj\Debug\MetisMercury.pdb
+E:\VestroProject\VestroVestival-master-593701d5c5f26c14049c442451b475c858866734\MetisMercuryV3\MetisMercury\MetisMercury\bin\Debug\MetisMercury.exe
+E:\VestroProject\VestroVestival-master-593701d5c5f26c14049c442451b475c858866734\MetisMercuryV3\MetisMercury\MetisMercury\bin\Debug\MetisMercury.pdb
+E:\VestroProject\VestroVestival-master-593701d5c5f26c14049c442451b475c858866734\MetisMercuryV3\MetisMercury\MetisMercury\bin\Debug\MySql.Data.dll
+E:\VestroProject\VestroVestival-master-593701d5c5f26c14049c442451b475c858866734\MetisMercuryV3\MetisMercury\MetisMercury\bin\Debug\Phidget22.NET.dll
+E:\VestroProject\VestroVestival-master-593701d5c5f26c14049c442451b475c858866734\MetisMercuryV3\MetisMercury\MetisMercury\obj\Debug\MetisMercury.csprojResolveAssemblyReference.cache
+E:\VestroProject\VestroVestival-master-593701d5c5f26c14049c442451b475c858866734\MetisMercuryV3\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Apps.AssignRFID.resources
+E:\VestroProject\VestroVestival-master-593701d5c5f26c14049c442451b475c858866734\MetisMercuryV3\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Apps.BoatCheckIn.resources
+E:\VestroProject\VestroVestival-master-593701d5c5f26c14049c442451b475c858866734\MetisMercuryV3\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Apps.BoatEntrance.resources
+E:\VestroProject\VestroVestival-master-593701d5c5f26c14049c442451b475c858866734\MetisMercuryV3\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Apps.CafeTeria.resources
+E:\VestroProject\VestroVestival-master-593701d5c5f26c14049c442451b475c858866734\MetisMercuryV3\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Apps.CampingCheckIn.resources
+E:\VestroProject\VestroVestival-master-593701d5c5f26c14049c442451b475c858866734\MetisMercuryV3\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Apps.CampingEntrance.resources
+E:\VestroProject\VestroVestival-master-593701d5c5f26c14049c442451b475c858866734\MetisMercuryV3\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Apps.EquipmentShop.resources
+E:\VestroProject\VestroVestival-master-593701d5c5f26c14049c442451b475c858866734\MetisMercuryV3\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Apps.EventEntrance.resources
+E:\VestroProject\VestroVestival-master-593701d5c5f26c14049c442451b475c858866734\MetisMercuryV3\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Apps.EventStatus.resources
+E:\VestroProject\VestroVestival-master-593701d5c5f26c14049c442451b475c858866734\MetisMercuryV3\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Apps.Exit.resources
+E:\VestroProject\VestroVestival-master-593701d5c5f26c14049c442451b475c858866734\MetisMercuryV3\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Apps.mainApp.resources
+E:\VestroProject\VestroVestival-master-593701d5c5f26c14049c442451b475c858866734\MetisMercuryV3\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Properties.Resources.resources
+E:\VestroProject\VestroVestival-master-593701d5c5f26c14049c442451b475c858866734\MetisMercuryV3\MetisMercury\MetisMercury\obj\Debug\MetisMercury.csproj.GenerateResource.Cache
+E:\VestroProject\VestroVestival-master-593701d5c5f26c14049c442451b475c858866734\MetisMercuryV3\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Apps.BuyTicket.resources
+E:\VestroProject\VestroVestival-master-593701d5c5f26c14049c442451b475c858866734\MetisMercuryV3\MetisMercury\MetisMercury\obj\Debug\MetisMercury.Apps.LogFiles.resources
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV7\MetisMercury\bin\Debug\MetisMercury.exe.config
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV7\MetisMercury\obj\Debug\MetisMercury.exe
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV7\MetisMercury\obj\Debug\MetisMercury.pdb
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV7\MetisMercury\bin\Debug\MetisMercury.exe
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV7\MetisMercury\bin\Debug\MetisMercury.pdb
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV7\MetisMercury\bin\Debug\Phidget22.NET.dll
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV7\MetisMercury\bin\Debug\Phidget22.NET.pdb
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV7\MetisMercury\bin\Debug\Phidget22.NET.xml
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV7\MetisMercury\obj\Debug\MetisMercury.csprojResolveAssemblyReference.cache
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV7\MetisMercury\obj\Debug\MetisMercury.Apps.AssignRFID.resources
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV7\MetisMercury\obj\Debug\MetisMercury.Apps.BoatCheckIn.resources
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV7\MetisMercury\obj\Debug\MetisMercury.Apps.BoatEntrance.resources
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV7\MetisMercury\obj\Debug\MetisMercury.Apps.BuyTicket.resources
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV7\MetisMercury\obj\Debug\MetisMercury.Apps.CafeTeria.resources
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV7\MetisMercury\obj\Debug\MetisMercury.Apps.CampingCheckIn.resources
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV7\MetisMercury\obj\Debug\MetisMercury.Apps.CampingEntrance.resources
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV7\MetisMercury\obj\Debug\MetisMercury.Apps.EquipmentShop.resources
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV7\MetisMercury\obj\Debug\MetisMercury.Apps.EventEntrance.resources
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV7\MetisMercury\obj\Debug\MetisMercury.Apps.EventStatus.resources
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV7\MetisMercury\obj\Debug\MetisMercury.Apps.Exit.resources
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV7\MetisMercury\obj\Debug\MetisMercury.Apps.LogFiles.resources
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV7\MetisMercury\obj\Debug\MetisMercury.Apps.mainApp.resources
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV7\MetisMercury\obj\Debug\MetisMercury.Properties.Resources.resources
+C:\Users\jeroe\Documents\Saves\ICT\GIT\VestroVestival\MetisMercuryV7\MetisMercury\obj\Debug\MetisMercury.csproj.GenerateResource.Cache

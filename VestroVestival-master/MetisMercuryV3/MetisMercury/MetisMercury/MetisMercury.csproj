@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{75F93C3C-94AA-47B2-9F6B-DBDFAF93AF80}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MetisMercury</RootNamespace>
+    <AssemblyName>MetisMercury</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data">
+      <HintPath>E:\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Phidget22.NET, Version=1.0.0.6, Culture=neutral, PublicKeyToken=aefa9ee0bcd237af, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\Phidget22.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Apps\AssignRFID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apps\AssignRFID.Designer.cs">
+      <DependentUpon>AssignRFID.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apps\BoatCheckIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apps\BoatCheckIn.Designer.cs">
+      <DependentUpon>BoatCheckIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apps\BoatEntrance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apps\BoatEntrance.Designer.cs">
+      <DependentUpon>BoatEntrance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apps\CafeTeria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apps\CafeTeria.Designer.cs">
+      <DependentUpon>CafeTeria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apps\CampingCheckIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apps\CampingCheckIn.Designer.cs">
+      <DependentUpon>CampingCheckIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apps\CampingEntrance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apps\CampingEntrance.Designer.cs">
+      <DependentUpon>CampingEntrance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apps\EquipmentShop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apps\EquipmentShop.Designer.cs">
+      <DependentUpon>EquipmentShop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apps\EventEntrance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apps\EventEntrance.Designer.cs">
+      <DependentUpon>EventEntrance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apps\EventStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apps\EventStatus.Designer.cs">
+      <DependentUpon>EventStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apps\Exit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apps\Exit.Designer.cs">
+      <DependentUpon>Exit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apps\mainApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apps\mainApp.Designer.cs">
+      <DependentUpon>mainApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\AssignRfid.cs" />
+    <Compile Include="Classes\Boat.cs" />
+    <Compile Include="Classes\BoatReservation.cs" />
+    <Compile Include="Classes\BorrowedEquipment.cs" />
+    <Compile Include="Classes\Cafeteria.cs" />
+    <Compile Include="Classes\CampingReservation.cs" />
+    <Compile Include="Classes\CampingSpot.cs" />
+    <Compile Include="Classes\Deposit.cs" />
+    <Compile Include="Classes\EquipmentShop.cs" />
+    <Compile Include="Classes\Invoice.cs" />
+    <Compile Include="Classes\InvoiceLine.cs" />
+    <Compile Include="Classes\LogFiles.cs" />
+    <Compile Include="Classes\phidget.cs" />
+    <Compile Include="Classes\Tickets.cs" />
+    <Compile Include="Classes\Visitor.cs" />
+    <Compile Include="DatabaseClasses\AssignRFID_DataHelper.cs" />
+    <Compile Include="DatabaseClasses\BoatReservation_DH.cs" />
+    <Compile Include="DatabaseClasses\Boat_DH.cs" />
+    <Compile Include="DatabaseClasses\BorrowedEquipments_DataHelper.cs" />
+    <Compile Include="DatabaseClasses\Cafeteria_DataHelper.cs" />
+    <Compile Include="DatabaseClasses\CampingReservation_DataHelper.cs" />
+    <Compile Include="DatabaseClasses\CampingSpot-DataHelper.cs" />
+    <Compile Include="DatabaseClasses\DataHelper.cs" />
+    <Compile Include="DatabaseClasses\EquipmentShop-DataHelper.cs" />
+    <Compile Include="DatabaseClasses\Invoice-DH.cs" />
+    <Compile Include="DatabaseClasses\Ticket_DataHelper.cs" />
+    <Compile Include="DatabaseClasses\Visitor_DataHelper.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Apps\AssignRFID.resx">
+      <DependentUpon>AssignRFID.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apps\BoatCheckIn.resx">
+      <DependentUpon>BoatCheckIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apps\BoatEntrance.resx">
+      <DependentUpon>BoatEntrance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apps\CafeTeria.resx">
+      <DependentUpon>CafeTeria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apps\CampingCheckIn.resx">
+      <DependentUpon>CampingCheckIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apps\CampingEntrance.resx">
+      <DependentUpon>CampingEntrance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apps\EquipmentShop.resx">
+      <DependentUpon>EquipmentShop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apps\EventEntrance.resx">
+      <DependentUpon>EventEntrance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apps\EventStatus.resx">
+      <DependentUpon>EventStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apps\Exit.resx">
+      <DependentUpon>Exit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apps\mainApp.resx">
+      <DependentUpon>mainApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
